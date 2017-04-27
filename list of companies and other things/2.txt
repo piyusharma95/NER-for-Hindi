@@ -1,0 +1,714 @@
+﻿    National Security Council
+        Joint Intelligence Committee
+        Strategic Policy Group
+        National Security Advisory Board
+    Trade and Economic Relations Committee
+    Economic Advisory Council
+    Energy Coordination Committee
+    Solar System Committee
+    Department of Border Management
+    Department of Internal Security
+    Department of Jammu & Kashmir Affairs
+    Department of Home
+    Department of Official Language
+    Department of States
+    National Centre for Integrated Pest Management
+    National Dairy Development Board (NDDB)
+    National Horticulture Board (NHB)
+    National Oilseeds and Vegetable Oils Development Board (NOVOD)
+    Indian Council of Agricultural Research (ICAR)
+    Department of Chemicals and Petro-Chemicals
+        Hindustan Organic Chemicals Ltd
+        Hindustan Insecticides Ltd.
+    Department of Fertilizers
+        Indian Potash Limited
+        Indian Fertilizers Limited
+    Department of Pharmaceuticals
+        National Pharmaceutical Pricing Authority
+        Bengal Chemicals and Pharmaceuticals Limited
+        Hindustan Antibiotics Limited
+        Indian Drugs and Pharmaceuticals Limited
+        Karnataka Antibiotics and Pharmaceuticals Limited
+        Rajasthan Drugs and Pharmaceuticals Limited
+        National Institutes for Pharmacy Education and Research
+    Directorate General of Civil Aviation
+    Bureau of Civil Aviation Security
+    Commission of Railway Safety
+    Airports Authority of India
+    Airports Economic Regulatory Authority
+    Air India Ltd.
+    Pawan Hans Helicopters Ltd.
+    Indira Gandhi Rashtriya Uran Academy
+    Coal Controller
+    Commissioner of Payments
+    Coal India Limited (CIL)
+    Neyveli Lignite Corporation (NLC)
+    Singareni Collieries Company Limited (SCCL)
+    Coal Mines Provident Fund Organisation (CMPFO)
+    Department of Commerce
+    Department of Industrial Policy & Promotion
+    Directorate General of Foreign Trade (DGFT)
+    Directorate General of Supplies and Disposals (DGS&D)
+    Office of the Economic Adviser
+    Directorate General of Commercial Intelligence and Statistics (DGCI&S)
+    Office of the Controller General of Patents, Designs and Trade Marks (CGPDTM)
+        Indian Patent Office
+    Special Economic Zones
+    Petroleum and Explosives Safety Organisation
+    Agricultural and Processed Food Products Export Development Authority (APEDA)
+    Federation of Indian Export Organisations (FIEO)
+    Indian Diamond Institute
+    Indian Institute of Foreign Trade (IIFT)
+    Indian Institute of Packaging (IIP)
+    Intellectual property Appellate Board (IPAB)
+    Indian Rubber Manufacturers Research Association (IRMRA)
+    Marine Products Export Development Authority (MPEDA)
+    National Institute of Design
+    National Numbering Organisation (EAN-India)
+    National Productivity Council (NPC)
+    Government of India undertaking
+    Government of India interpreting
+    Coffee Board
+    Rubber Board
+    Spices Board
+    Tobacco Board
+    Tea Board
+    Basic Chemicals, Pharmaceuticals and Cosmetics Export Promotion Council (CHEMEXCIL)
+    Cashew Export Promotion Council of India (CEPCI)
+    Chemical and Allied Products Export Promotion Council (CAPEXIL)
+    Council for Leather Exports
+    Engineering Export Promotion Council (EEPC)
+    Export Inspection Council (EIC)Web Link
+    The Gem and Jewellery Export Promotion Council (GJEPC)
+    National Manufacturing Competitiveness Council (NMCC)
+    Plastics Export Promotion Council (PLEXCONCIL)
+    Project Exports Promotion Council of India (PEPC)
+    Sports Goods Export Promotion Council (SGEPC)
+    Export Credit Guarantee Corporation of India Limited (ECGC)
+    India Trade Promotion Organization (ITPO)
+    Minerals and Metals Trading Corporation Limited (MMTC)
+    National Centre for Trade Information (NCTI)
+    State Trading Corporation of India Limited (STCI)
+    Indian Telephone Industries Limited (ITI Limited)
+    Department of Information Technology
+    Department of Posts
+    Department of Telecommunications
+    National Informatics Centre (NIC)
+    Standardisation, Testing and Quality Certification (STQC)
+    National Institute of Electronics and Information Technology (NIELIT)
+    Centre for Development of Advanced Computing (C-DAC)
+    Telecom Regulatory Authority of India (TRAI)
+    Centre for Development of Telematics (C-DOT)
+    Centre for Materials for Electronics Technology (C-MET)
+    Education and Research Network (ERNET)
+    Electronics and Computer Software Export Promotion Council (ESC)
+    MIT Accreditation of Computer Courses
+    Society for Applied Microwave Electronic Engineering and Research (SAMEER)
+    Software Technology Parks of India (STPI)
+    Department of Consumer Affairs
+    Department of Food and Public Distribution
+    Bureau of Indian Standards (BIS)
+    Central Warehousing Corporation (public sector undertaking)
+    Consumer Online Resource and Empowerment Centre (CORE)
+    Directorate of Sugar
+    Directorate of Vanaspati, Vegetable Oils and Fats
+    Forward Markets Commission
+    Food Corporation of India (public sector undertaking)
+    National Co-operative Consumers' Federation of India Limited (NCCF)
+    National Sugar Institute
+    National Test House
+    National Consumer Disputes Redressal Commission (NCDRC)
+    Registrar of Companies, India
+    Company Law Board
+    Competition Commission of India
+    Serious Fraud Investigation Office (SFIO)
+    Institute of Company Secretaries of India (ICSI)
+    Institute of Chartered Accountants of India (ICAI)
+    Institute of Cost Accountants of India (ICAI)
+    Anthropological Survey of India (AnSI)
+    Archaeological Survey of India (ASI)
+    Central Reference Library
+    National Archives of India (NAI)
+    National Library of India
+    National Museum, New Delhi
+    National Gallery of Modern Art, New Delhi
+    National Gallery of Modern Art, Mumbai
+    National Gallery of Modern Art, Bengaluru
+    National Research Laboratory for Conservation of Cultural Property (NRLC)
+    Asiatic Society
+    Central Institute of Higher Tibetan Studies (CIHTS)
+    Centre for Cultural Resources and Training (CCRT)
+    Gandhi Smriti and Darshan Samiti (GSDS)
+    Indian Museum, Kolkata
+    [(Institute of Chartered Accountant of India) (ICAI)]
+    Indira Gandhi National Centre for the Arts (IGNCA)
+    Kalakshetra Foundation, Chennai
+    Khuda Bakhsh Oriental Public Library, Patna
+    Maulana Abul Kalam Azad Institute of Asian Studies (MAKAIAS)
+    National Council of Science Museums (NCSM)
+    National Culture Fund
+    National Electronic Register of Jain Manuscripts
+    National Mission for Manuscripts
+    National Museum Institute (NMI)
+    National School of Drama
+    Raja Rammohun Roy Library Foundation (RRRLF)
+    Rampur Raza Library
+    Sahitya Akademi
+    Sangeet Natak Akademi
+    Victoria Memorial Hall, Kolkata
+    Zonal Cultural Centres:
+        Eastern Zonal Cultural Centre
+        North Central Zone Cultural Centre
+        North East Zone Cultural Centre
+        North Zone Cultural Centre
+        South Central Zone Cultural Centre
+        South Zone Cultural Centre
+        West Zone Cultural Centre
+    Integrated Defence Staff
+    Indian Army
+    Indian Navy
+        Marine Commando Force (MARCOS)
+    Indian Air Force
+    Indian Coast Guard
+    Defence Research and Development Organisation
+    Aeronautical Development Agency
+    Ordnance Factories Organisation
+    Directorate General of Quality Assurance (DGQA)
+    Directorate General of Aeronautical Quality Assurance (DGAQA)
+    Directorate of Standardisation
+    Directorate of Planning & Coordination
+    Defence Exhibition Organisation (DEO)
+    Defence Public Sector Undertakings
+        Bharat Dynamics Limited
+        Bharat Earth Movers Limited
+        Bharat Electronics Limited
+        Garden Reach Shipbuilders and Engineers Limited (GRSE)
+        Goa Shipyard Limited
+        Hindustan Aeronautics Limited
+        Mazagon Dock Limited
+        Mishra Dhatu Nigam Limited (MIDHANI)
+    Directorate General of Resettlement (DGR)
+    Kendriya Sainik Board (KSB)
+    Air Force Naval Housing Board (AFNHB)
+    Controller General of Defence Accounts (CGDA)
+    Defence Intelligence Agency
+    Directorate of Air Intelligence
+    Directorate of Military Intelligence
+    Directorate of Naval Intelligence
+    Military Engineering Service
+    Armed Forces Medical Services
+    Office of the Chief Administrative Officer
+    Directorate General of Defence Estates
+    Directorate General of Married Accommodation Project (DG MAP)
+    Directorate of Public Relations
+    Armed Forces Films & Photo Division
+    History Division
+    Institute for Defence Studies and Analyses (IDSA)
+    Ministry of Defence Library
+    Services Sports Control Board
+    School of Foreign Languages
+    National Defence College
+    College of Defence Management
+    Defence Services Staff College
+    National Defence Academy
+    Armed Forces Medical College
+    National Cadet Corps NCC
+    Territorial Army
+    Indian Institute of Tropical Meteorology (IITM)
+    India Meteorological Department (IMD)
+    Indian National Centre for Ocean Information Services (INCOIS)
+    National Centre for Medium Range Weather Forecasting (NCMRWF)
+    National Institute of Ocean Technology (NIOT)
+    Andaman & Nicobar Islands Forest and Plantation Development Corporation (Public Sector Undertaking)
+    Animal Welfare Board of India
+    Botanical Survey of India (BSI), Kolkata
+    Central Pollution Control Board
+    Central Zoo Authority, New Delhi
+    Directorate of Forest Education (DFE), Dehradun
+    Forest Survey of India (FSI), Dehradun
+    Indira Gandhi National Forest Academy (IGNFA), Dehradun
+    National Afforestation and Eco-Development Board
+    National Biodiversity Authority, Chennai
+    National Ganga River Basin Authority
+    National Institute of Animal Welfare
+    National Museum of Natural History (NMNH), New Delhi
+    National Tiger Conservation Authority
+    National Zoological Park (NZP), New Delhi
+    Zoological Survey of India (ZSI), Kolkata
+    Govind Ballabh Pant Institute of Himalayan Environment and Development, Almora
+    Indian Council of Forestry Research and Education (ICFRE), Dehradun
+        Arid Forest Research Institute
+        Forest Research Institute (India)
+        Himalayan Forest Research Institute
+        Institute of Forest Biodiversity
+        Institute of Forest Genetics and Tree Breeding
+        Institute of Forest Productivity
+        Institute of Wood Science and Technology
+        Rain Forest Research Institute
+        Tropical Forest Research Institute
+        Advanced Research Centre for Bamboo and Rattan
+        Centre for Forestry Research and Human Resource Development
+        Centre for Social Forestry and Eco-Rehabilitation
+        Centre for Forest Based Livelihood and Extension
+    Indian Institute of Forest Management
+    Indian Plywood Industries Training and Research Institute
+    Wildlife Institute of India (WII)
+    Foreign Service Institute
+    Indian Council for Cultural Relations
+    Indian Revenue Service
+    Department of Disinvestment
+    Department of Economic Affairs
+    Department of Revenue
+    Central Board of Excise and Customs
+    Central Economic Intelligence Bureau
+    Directorate General of Central Excise Intelligence
+    Directorate General of Economic Enforcement
+    Directorate of Revenue Intelligence
+    Central Bureau of Narcotics
+    Government Opium and Alkaloid Factories
+    Narcotics Control Bureau
+    Central Board of Direct Taxes
+    Income Tax Air Intelligence Unit
+    Chief Commissioner of Income Tax Central
+    Investigation Division of the Central Board of Direct Taxes
+    National Academy of Direct Taxes
+    Directorate General of Income Tax Investigation(for economic exchange related offences)
+        Directorate of Income Tax Intelligence and Criminal Investigation(for criminal economic offences)
+    Customs Excise and Service Tax Appellate Tribunal (CESTAT)
+    Income Tax Appellate Tribunal (ITAT)
+    National Institute of Financial Management
+    Securities and Exchange Board of India
+    National Institute of Securities Markets (NISM)
+    Paddy Processing Research Centre (PPRC)
+    Food Safety and Standards Authority of India (FSSAI)
+    National AIDS Control Organisation (NACO)
+    Medical Council of India
+    Indian Nursing Council (INC)
+    Dental Council of India
+    All India Institute of Speech and Hearing (AIISH), Mysore
+    All India Institute of Physical Medicine and Rehabilitation (AIIPMR), Mumbai
+    Hospital Services Consultancy Corporation Limited (HSCC)
+    National Institute of Health and Family Welfare (NIHFW), South Delhi
+    International Institute for Population Sciences (IIPS), Mumbai
+    Central Drug Research Institute (CDRI), Lucknow
+    Indian Council of Medical Research (ICMR), New Delhi
+        Central Council for Research in Ayurveda and Siddha (CCRAS)
+        Central Council for Research in Unani Medicine (CCRUM)
+        Central Council for Research in Homoeopathy (CCRH)
+        Central Council for Research in Yoga and Naturopathy (CCRYN)
+        Central Council of Homoeopathy (CCH)
+        Automotive Research Association of India (ARAI)
+        Fluid Control Research Institute (FCRI)
+    Indian Police Service
+    Intelligence Bureau
+    Central Reserve Police Force
+    Bureau of Police Research and Development
+    Central Industrial Security Force
+    National Security Guard
+    National Institute of Criminology & Forensic Sciences
+    National Crime Records Bureau
+    National Civil Defence College
+    National Investigation Agency ( NIA )
+    North Eastern Council
+    North Eastern Police Academy
+    Office of the Registrar General and Census Commissioner, Census of India
+    Sardar Vallabhbhai Patel National Police Academy
+    Assam Rifles
+    Rashtriya Rifles
+    dabra sonu police
+    Narcotics Control Bureau
+    Border Security Force
+    Indo-Tibetan Border Police
+    Central Industrial Security Force
+    National Security Guards
+    Special Frontier Force
+    Indian Coast Guard
+    Rashtriya Rifles
+    Assam Rifles
+    Defence Security Corps
+    Border Security Force BSF
+        Assam and Meghalaya Frontier, Border Security Force (BSF)
+        Border Security Force Academy, Madhya Pradesh
+        Central Workshop and Stores, Border Security Force (BSF)
+        CRPF Academy, Kadarpur, Gurgoan, Haryana
+        Gujarat Frontier, Border Security Force (BSF)
+        Mizoram and Cachar Frontier, Border Security Force (BSF)
+        Rajasthan Frontier, Border Security Force (BSF)
+        Srinagar Frontier, Border Security Force (BSF)
+    Indo-Tibetan Border Police TTBP
+    Sashastra Seema Bal (SSB)
+    Bureau of Immigration, India
+    Bureau of Police Research and Development, Libraries Network
+    Narcotics Control Bureau (NCB)
+    National Crime Records Bureau (NCRB)
+    Indian Military Academy
+    National Foundation for Communal Harmony (NFCH)
+    Repatriates Co-operative Finance and Development Bank Limited
+    Central Recordkeeping Agency (CRA) for the New Pension System (NPS), NSDL
+    National Industrial Security Academy (NISA), CISF, Hyderabad
+    Rehabilitation Plantations Limited (RPL)
+    Scheduled Tribes and Other Traditional Forest Dwellers
+    Welfare and Rehabilitation Board (WARB), New Delhi
+    National Securities Depository Limited (NSDL)
+    Centre for Disaster Management, LBSNAA, Mussoorie
+    National Institute of Disaster Management (NIDM)
+    Officers Training Academy
+    Regional Institute of Correctional Administration (RICA)
+    National Disaster Management Authority NDMA
+    Committee for Consultations on the Situation in Andhra Pradesh (CCSAP)
+    Committee of Parliament on Official Language
+    Inter-State Council
+    Census of Kerala
+    Census of Orissa
+    Directorate of Census Operation, Rajasthan
+    Directorate of Census Operation, Madhya Pradesh
+    Directorate of Census Operations, Chandigarh
+    Directorate of Census Operations, Gujarat
+    Directorate of Census Operations, Karnataka
+    Directorate of Census Operations, Punjab, Chandigarh
+    Directorate of Census Operations Tamil Nadu
+    Central Industrial Security Force (CSIF), South Zone, Chennai
+    Frontier Headquarters Border Security Force, Tripura
+    India Disaster Resource Network, IDRN
+    Multi Purpose National Identity Card
+    North Bengal Frontier, Border Security Force
+    Punjab Frontier, Border Security Force
+    Rustamji Institute of Technology (RJIT)
+    South Bengal Frontier, Border Security Force
+    Town Official Language Implementation Committee, Ahmedabad
+    Central Translation Bureau
+    Central Hindi Training Institute
+    Building Materials and Technology Promotion Council (BMTPC)
+    Central Government Employees Welfare Housing Organisation (CGEWHO)
+    Hindustan Prefab Limited (HPL) (Public Sector Undertaking)
+    Housing and Urban Development Corporation (HUDCO) (Public Sector Undertaking)
+    National Buildings Organisation (NBO)
+    National Cooperative Housing Federation of India (NCHFI)
+    Principal Account Office (PAO)
+    Department of School Education and Literacy
+        Central Board of Secondary Education (CBSE)
+        Central Tibetan School Administration (CTSA)
+        Kendriya Vidyalaya Sangathan (KVS)
+        National Commission for Minority Educational Institutions (NCMEI)
+        National Council of Educational Research and Training (NCERT)
+        National Foundation for Teachers' Welfare
+        National Institute of Open Schooling (NIOS)
+        Navodaya Vidyalaya Samiti (NVS)
+        Institution of Engineers (India), Kolkata
+    Department of Higher Education
+        University Grants Commission
+            National Assessment and Accreditation Council
+            Distance Education Council (DEC)
+            Indian Council of Agricultural Research (ICAR)
+            Bar Council of India (BCI)
+            National Council for Teacher Education (NCTE)
+            Rehabilitation Council of India (RCI)
+            Medical Council of India (MCI)
+            Pharmacy Council of India (PCI)
+            Indian Nursing Council (INC)
+            Dental Council of India (DCI)
+            Central Council of Homoeopathy (CCH)
+            Central Council of Indian Medicine (CCIM)
+            National Council for Rural Institutes
+            State Councils of Higher Education
+        All India Council for Technical Education (AICTE)
+            National Board of Accreditation (intended to replace AICTE)
+        Central Hindi Directorate (CHD), New Delhi
+        Central Institute of Indian Languages, Mysore
+        Commission for Scientific & Technological Terminology (CSTT), New Delhi
+        Council of Architecture
+        Educational Consultants (India) Limited (EdCIL) (Public Sector Undertaking)
+        Indian Council of Social Science Research (ICSSR)
+        Indian Council of Historical Research (ICHR)
+        Indian Council of Philosophical Research (ICPR)
+        National Book Trust (NBT)
+        National Council for Promotion of Urdu Language (NCPUL)
+        National Council for Promotion of Sindhi Language (NCPSL)
+        Inter-university centres (IUCs)
+            Nuclear Science Centre, New Delhi
+            Inter-University Centre for Astronomy and Astrophysics (IUCAA), Pune
+            Inter–University Consortium for DAE Facilities, Indore
+            Information and Library Network (INFLIBNET), Ahmedabad
+            Consortium for Educational Communication (CEC)
+    Directorate of Advertising and Visual Publicity
+    Directorate of Field Publicity
+    Directorate of Film Festivals
+        International Film Festival of India
+    Prasar Bharati
+        All India Radio (AIR)
+        Doordarshan
+    Central Board of Film Certification
+    Children's Film Society
+    Film and Television Institute of India
+    Film Certification Appellate Tribunal
+    Indian Institute of Mass Communication (IIMC)
+    National Film Archive of India (NFAI)
+    Office of the Registrar of Newspapers for India (RNI)
+    Press Council of India
+    Press Information Bureau (PIB)
+    Satyajit Ray Film and Television Institute
+    Films Division
+    Photo Division
+    Publications Division
+    Research Reference and Training Division
+    Song and Drama Division
+    Broadcast Engineering Consultants India Limited (public sector undertaking)
+    National Film Development Corporation (public sector undertaking)
+    Directorate General of Employment and Training (DGE&T)
+        Women Training Directorate
+    Directorate General, Factory Advice Service and Labour Institutes (DGFASLI)
+    Directorate General of Mines Safety (DGMS)
+    Labour Bureau (labour statistics)
+    Employees State Insurance Corporation (ESIC)
+    Employees' Provident Fund Organisation
+    Advanced Training Institute for Electronics and Process Instrumentation
+    Advanced Training Institute, Mumbai
+    Apprenticeship Training Scheme
+    Craftsmen Training Scheme, Industrial training institute
+    Foreman Training Institute, Bangalore
+    V. V. Giri National Labour Institute
+    Department of Justice
+    Department of Legal Affairs
+        Law Commission of India
+        Appellate Tribunal for Foreign Exchange
+        Customs Excise and Service tax Appellate Tribunal (CESTAT)
+        Income Tax Appellate Tribunal (ITAT)
+    Legislative Department
+    First National Judicial Pay Commission
+    Office of the Development Commissioner (MSME)
+    Khadi & Village Industries Commission
+    Coir Board
+    National Small Industries Corporation
+    National Institute of Micro, Small and Medium Enterprises (formerly the National Institute of Small Industry Extension Training)
+    National Institute for Entrepreneurship and Small Business Development
+    Indian Institute of Entrepreneurship
+    Geological Survey of India (GSI)
+    Indian Bureau of Mines
+    National Institute of Rock Mechanics (NIRM)
+    Hindustan Copper Limited (HCL) (public sector undertaking)
+    Mineral Exploration Corporation Limited (MECL) (public sector undertaking)
+    National Aluminium Company Limited (NALCO) (public sector undertaking)
+    Jawaharlal Nehru Aluminium Research Development and Design Centre (JNARDDC)
+    Maulana Azad Education Foundation
+    National Minorities Development and Finance Corporation (NMDFC)
+    Central Wakf Council
+    National Commission for Minorities (NCM)
+    National Commissioner for Linguistic Minorities
+    Centre for Wind Energy Technology, (CWET) Chennai
+    Indian Renewable Energy Development Agency Limited (IREDA)
+    Overseas Indian Facilitation Center (OIFC)
+    High Level Committee on Indian Diaspora
+    Pravasi Bharatiya Divas (PBD)
+    Civil Services Officers Institute (CSOI)
+    Lal Bahadur Shastri National Academy of Administration (LBSNAA)
+    Institute of Secretariat Training and Management (ISTM)[1]
+    Union Public Service Commission (UPSC)
+    Staff Selection Commission (SSC) [2]
+    Public Enterprises Selection Board (PESB)
+    Central Government Employees Consumer Cooperative Society Ltd. (Kendriya Bhandar)
+    Directorate General of Hydrocarbons
+    Center for High Technology
+    Oil Industry Development Board
+    Oil Industry Safety Directorate
+    Petroleum Conservation Research Association
+    Petroleum Planning and Analysis Cell
+    Petroleum federation of India (Petrofed)
+    Bureau of Energy Efficiency (BEE)
+    Central Power Research Institute (CPRI), Bangalore, Karnataka
+    National Power Training Institute (NPTI), Faridabad, Haryana
+    Power System Operation Corporation Limited, Kolkata
+    National Load Despatch Centre (NLDC) - Power System Operation Corporation Limited, New Delhi
+    National Thermal Power Corporation Limited (NTPC)
+    Power System Operation Corporation Limited, Shillong
+    Tamil Nadu Energy Company Limited (NTECL)
+    PFC Consulting Limited (PFCCL), Power Finance Corporation Limited (PFC), New Delhi
+    Power Finance Corporation Limited (PFCL), New Delhi
+    Power Trading Corporation of India Limited (PTC)
+    Ratnagiri Gas and Power Private limited (RGPPL), New Delhi
+    Power System Operation Corporation Limited, Bangalore
+    Power System Operation Corporation Limited, Mumbai
+    Damodar Valley Corporation (DVC)
+    National Thermal Power Corporation Limited (NTPC)
+    National Hydroelectric Power Corporation Limited (NHPC)
+    National Thermal Power Corporation NTPC
+    North Eastern Electric Power Corporation (NEEPCO)
+    NTPC BHEL Power Projects Private Limited (NBPPL), Noida
+    Power Finance Corporation Limited, New Delhi
+    Power Grid Corporation of India Limited (POWERGRID)
+    REC Power Distribution Company Limited (RECPDCL), New Delhi
+    Rural Electrification Corporation Limited
+    Satluj Jal Vidyut Nigam (SJVN) Limited
+    Tehri Hydro Development Corporation (THDC)
+    Triveni Structurals Limited (TSL), Uttar Pradesh
+ Bhakra Beas Management Board (BBMB)
+ Central Electricity Authority (CEA)
+ Central Electricity Regulatory Commission (CERC) 
+ Regional Inspectorial Organisation, Shillong
+ Northern Regional Power Committee, Ministry of Power 
+ Southern Regional Power Committee 
+ Western Regional Power Committee (WRPC)
+ Regional/Field Offices (Central Government) 
+ Energy Manager Training 
+ Koldam Hydro Power Project, NTPC 
+ North Eastern Regional Power Committee
+            Indian Railway Catering and Tourism Corporation(public sector undertaking)
+            Konkan Railway Corporation (public sector undertaking)
+            Mumbai Railway Vikas Corporation (public sector undertaking)
+            Production Units
+                Chittaranjan Locomotive Works
+                Diesel Locomotive Works
+                Diesel-Loco Modernisation Works
+                Integral Coach Factory
+                Rail Coach Factory
+                Rail Wheel Factory
+            Maintenance Units
+        Bharat Wagon and Engineering Limited (public sector undertaking)
+        Central Organisation for Modernisation of Workshops
+        Central Organization For Railway Electrification (CORE)
+        Container Corporation of India (public sector undertaking)
+        Dedicated Freight Corridor Corporation of India (public sector undertaking)
+        Indian Railway Finance Corporation (public sector undertaking)
+        IRCON International (public sector undertaking)
+        Rail Vikas Nigam Limited (public sector undertaking)
+        Railtel Corporation of India (public sector undertaking)
+        Railway Protection Force
+        RITES Limited (public sector undertaking)
+  Rail Land Development Authority
+    National Highway Authority of India (NHAI)
+    Indian Roads Construction Corporation (IRCC)
+    Indian Academy of Highway Engineers (IAHE)
+    National Institute Of Rural Development.(NIRD)
+    Department of Land Resources
+    Department of Rural Development
+    Department of Drinking Water Supply
+    National Centre for Antarctic and Ocean Research (NCAOR)
+    Council of Scientific and Industrial Research
+    National Research Development Corporation
+    Consultancy Development Centre
+    Center For Soft Matter Research (formerly Center For Liquid Crystal Research)
+        National Commission for Backward Classes
+        National Commission for Scheduled Castes
+        National Commission for Safai Karamcharis
+        Rehabilitation Council of India
+        Chief Commissioner for Persons with Disabilities
+        National Trust for the Welfare of Persons with Autism, Cerebral Palsy, Mental Retardation
+        Ali Yavar Jung National Institute for the Hearing Handicapped
+        Pt. Deendayal Upadhyaya Institute for the Physically Handicapped
+        National Institute of Mentally Handicapped
+        Swami Vivekananda National Institute of Rehabilitation Training and Research
+    Department of Statistics
+    Department of Programme Implementation
+    Central Statistical Office (CSO)
+    National Sample Survey Office (NSSO)
+    National Institute of Fashion Technology (NIFT)
+    Sardar Vallabhbhai Patel Institute of Textile Management
+    EEPC India (Formerly, Engineering Export Promotion Council), largest export promotion council in India.
+    Apparel Export Promotion Council (AEPC)
+    Carpet Export Promotion Council (CEPC)
+    Cotton Textile Export Promotion Council (TEXPROCIL)
+    Export Promotion Council for Handicrafts (EPCH)
+    Handloom Export Promotion Council (HEPC)
+    Indian Silk Export Promotion
+    Ahmedabad Textile Industry's Research Association (ATIRA)
+    Bombay Textile Research Association (BTRA)
+    South India Textile Research Association (SITRA)
+    Northern India Textile Research Association (NITRA)
+    The Synthetic & Art Silk Mills Research Association (SASMIRA)
+    Man-made Textile Research Association (MANTRA)
+    Indian Jute Industry's Research Association (IJIRA)
+    Wool Research Association (WRA)
+    British India Corporation Ltd. (BIC)
+    Central Cottage Industries Corporation (CCIC)
+    Cotton Corporation of India Ltd. (CCI)
+    Handicrafts and Handlooms Export Corporation (HHEC)
+    Jute Corporation of India Ltd. (JCI)
+    National Handloom Development Corporation (NHDC)
+    National Jute Manufacturers Corporation (NJMC)
+    Birds Jute and Export Ltd. (BJEL)
+    National Textile Corporation Ltd. (NTC)
+    Bhabha Atomic Research Centre
+    Indira Gandhi Center for Atomic Research, Kalpakkam
+    Raja Ramanna Centre for Advanced Technology, Indore
+    Variable Energy Cyclotron Centre, Calcutta
+    Atomic Minerals Division, Hyderabad
+    Nuclear Fuel Complex, Hyderabad
+    Heavy water plant, Manuguru
+    NPCIL, Mumbai
+    UCIL, Jhaduguda
+    Electronics Corporation of India Limited, Hyderabad
+    Indian Space Research Organisation
+    National Remote Sensing Center, Hyderabad
+    Planning Commission
+    Telecom Regulatory Authority of India(TRAI)
+    Election Commission of India
+    ComptrollerComptroller and Auditor General of India (CAG)
+    Union Public Service Commission (UPSC)
+    Central Information Commission
+    Central Vigilance Commission (CVC)
+    Office of the Principal Scientific Adviser
+    National Commission for Backward Classes (NCBC)
+    National Commission for Minorities (NCM)
+    National Commission for Scheduled Castes (NCSC)
+    National Commission for Scheduled Tribes (NCST)
+    National Commission for Women (NCW)
+    National Commission on Population
+    National Human Rights Commission (NHRC)
+    Central Electricity Regulatory Commission (CERC)
+    Reserve Bank of India (RBI)
+    Intelligence Bureau (IB) (internal)
+    Research and Analysis Wing (RAW) (external)
+    Joint Intelligence Committee (JIC) (internal)
+    Economic Intelligence Council
+    Central Economic Intelligence Bureau
+    Directorate General of Revenue Intelligence (DGRI)
+    Directorate of Enforcement
+    Directorate General of Anti-Evasion
+    Directorate General of Income Tax Investigation
+    Directorate of Income Tax Intelligence and Criminal Investigation
+    Aviation Research Centre(ARC)
+    Directorate of Military Intelligence
+    Directorate of Air Intelligence
+    Directorate of Naval Intelligence
+    Special Service Bureau
+    All-India Radio Monitoring Service (AIRMS)
+    Joint Cipher Bureau
+    Signal Intelligence Directorate
+    Food and Drug Administration (FDA)
+    Criminal Investigations Department (CID)
+    Directorate General Civil Defense & Fire Services (DGCD)
+    Home Guards
+    Railway Protection Force
+    Rapid Action Force (RAF)
+    Central Reserve Police Force (CRPF)
+    Central Industrial Security Force (CISF)
+    Central Vigilance Commission
+    Narcotics Control Bureau (NCB)
+    National Security Guards (NSG)
+    Defence Security Corps
+    Department of Internal Security
+    Special Protection Group (SPG)
+    Appellate Tribunal for Electricity
+    Appellate Tribunal for Forfeited Property
+    Appellate Tribunal for Foreign Exchange
+    Airports Economic Regulatory Authority Appellate Tribunal
+    Armed Forces Tribunal
+    Authority for Advance Rulings
+    Authority for Advance Rulings (Central Excise, Customs and Service Tax)
+    Central Administrative Tribunal
+    Competition Commission of India
+    Company Law Board
+    Competition Appellate Tribunal
+    Customs, Excise and Service Tax Appellate Tribunal
+    Cyber Appellate Tribunal
+    Debts Recovery Appellate Tribunal
+    Film Certification Appellate Tribunal
+    Income-Tax Appellate Tribunal
+    Industrial Tribunal
+    Intellectual Property Appellate Board
+    National Green Tribunal
+    National Highways Tribunal
+    National Consumer Disputes Redressal Commission
+    Railway Claims Tribunal
+    Securities Appellate Tribunal
+    Telecom Disputes Settlement and Appellate Authority
+    Telecom Regulatory Authority of India

@@ -1,0 +1,332 @@
+﻿https://en.wikipedia.org/wiki/List_of_airports_in_India
+City Served 	Airport Name 	ICAO 	IATA 	Category 	Role
+Car Nicobar 	Car Nicobar Air Force Base 	VOCX 	CBD 	Defence 	Airbase
+Campbell Bay 	INS Baaz 	— 	— 	Defence 	Airbase
+Diglipur 	NAS Shibpur 	VODX 	IN 0053 	Defence 	Airbase
+Port Blair 	Veer Savarkar International Airport 	VOPB 	IXZ 	International[1] 	Civil Enclave
+Andhra Pradesh
+City Served 	Airport Name 	ICAO 	IATA 	Category 	Role
+Donakonda 	Donakonda Airport 	VODK 	— 	Domestic 	Closed
+Kadapa 	Cuddapah Airport 	VOCP 	CDP 	Domestic 	Commercial
+Puttaparthi 	Sri Sathya Sai Airport 	VOPN 	BEK 	Private 	Private
+Rajahmundry 	Rajahmundry Airport 	VORY 	RJA 	Domestic 	Commercial
+Tirupati 	Tirupati Airport 	VOTP 	TIR 	Domestic 	Commercial
+Vijayawada 	Vijayawada Airport 	VOBZ 	VGA 	Domestic 	Commercial
+Visakhapatnam 	Visakhapatnam International Airport 	VOVZ 	VTZ 	International[1] 	Commercial
+Bhogapuram Airport 	- 	- 	International 	Future
+Nagarjuna Sagar 	Nagarjuna Sagar Airport 	VONS 	- 	Flying School 	Commercial
+Nellore 	Nellore Airport 	— 	— 	Future 	Future
+Srikakulam 	Srikakulam Airport 	— 	— 	Future 	Future
+Kurnool 	Kurnool Airport 	— 	— 	Future 	Future
+Arunachal Pradesh
+City Served 	Airport Name 	ICAO 	IATA 	Category 	Role
+Along 	Along Airport 	VEAN 	IXV 	Domestic 	Civil Enclave
+Daporijo 	Daporijo Airport 	VEDZ 	DAE 	Domestic 	Closed
+Itanagar 	Itanagar Airport 	— 	— 	Future 	Future
+Pasighat 	Pasighat Airport 	VEPG 	IXT 	Domestic 	Civil Enclave
+Tezu 	Tezu Airport 	VETZ 	TEI 	Domestic 	Closed
+Ziro 	Zero Airport 	VEZO 	ZER 	Domestic 	Closed
+Assam
+City Served 	Airport Name 	ICAO 	IATA 	Category 	Role
+Chabua 	Chabua Air Force Station 	VECA 	— 	Defence 	Air Base
+Dibrugarh 	Dibrugarh Airport 	VEMN 	DIB 	Domestic 	Commercial
+Doom Dooma 	Sookerating Air Force Station 	— 	— 	Defence 	Air Base
+Guwahati 	Lokpriya Gopinath Bordoloi International Airport 	VEGT 	GAU 	International[1] 	Commercial
+Jorhat 	Jorhat Airport 	VEJT 	JRH 	Domestic 	Civil Enclave
+North Lakhimpur 	Lilabari Airport 	VELR 	IXI 	Domestic 	Commercial
+Dhubri 	Rupsi Airport 	VERU 	RUP 	Domestic 	Closed
+Shella 	Shella Airport 	— 	— 	Domestic 	Closed
+Silchar 	Silchar Airport 	VEKU 	IXS 	Domestic 	Civil Enclave
+Tezpur 	Tezpur Airport 	VETZ 	TEZ 	Domestic 	Civil Enclave
+Bihar
+City Served 	Airport Name 	ICAO 	IATA 	Category 	Role
+Darbhanga 	Darbhanga Airport 	VEDB 	— 	Defence 	Air Base
+Gaya 	Gaya International Airport 	VEGY 	GAY 	International[1] 	Commercial
+Jogbani 	Jogbani Airport 	— 	— 	Domestic 	Closed
+Munger 	Munger Airport 	— 	— 	Domestic 	Closed
+Muzaffarpur 	Muzaffarpur Airport 	VEMZ 	MZU 	Future 	Commercial
+Patna 	Lok Nayak Jayaprakash Airport 	VEPT 	PAT 	Customs 	Commercial
+Purnea 	Purnea Airport 	VEPR 	— 	Defence 	Air Base
+Raxaul 	Raxaul Airport 	VERL 	RXL 	International 	Civil Enclave
+Chandigarh
+City Served 	Airport Name 	ICAO 	IATA 	Category 	Role
+Chandigarh 	Chandigarh Airport 	VICG 	IXC 	Customs 	Commercial
+Chandigarh Air Force Base 	— 	— 	— 	Defence 	Air Base
+Chhattisgarh
+City Served 	Airport Name 	ICAO 	IATA 	Category 	Role
+Bilaspur 	Bilaspur Airport 	VABI 	PAB 	Domestic 	Flying School
+Raigarh 	Raigarh Airport 	VERH 	— 	Domestic 	
+OP Jindal Airport 	— 	— 	Private 	
+Jagdalpur 	Jagdalpur Airport 	VE46 	JGB 	Domestic 	Closed
+Raipur 	Swami Vivekananda Airport 	VARP 	RPR 	Domestic 	Commercial
+Daman and Diu
+City Served 	Airport Name 	ICAO 	IATA 	Category 	Role
+Diu 	Diu Airport 	VA1P 	DIU 	Domestic 	Commercial
+Daman 	Daman Airport 	VADN 	NMB 	Defence 	Airbase
+Delhi
+City Served 	Airport Name 	ICAO 	IATA 	Category 	Role
+New Delhi 	Indira Gandhi International Airport 	VIDP 	DEL 	International[1] 	Commercial
+Safdarjung Airport 	VIDD 	— 	— 	Domestic 	Closed
+
+
+Goa (Whole State)
+City Served 	Airport Name 	ICAO 	IATA 	Category 	Role
+Goa International Airport 	VOGO 	GOI 	— 	International[1] 	Civil Enclave
+
+
+Gujarat
+City Served 	Airport Name 	ICAO 	IATA 	Category 	Role
+Ahmedabad 	Sardar Vallabhbhai Patel International Airport 	VAAH 	AMD 	International[1] 	Commercial
+Fedara International Airport 	— 	— 	International 	Future
+Vadodara 	Vadodara Airport 	VABO 	BDQ 	Domestic 	Commercial
+Kandla 	Kandla Airport 	VAKE 	IXY 	Domestic 	Commercial
+Bhuj 	Bhuj Airport 	VABJ 	BHJ 	Domestic 	Civil Enclave
+Palanpur 	Palanpur Airport 	— 	—A 	Domestic 	Closed
+Bhavnagar 	Bhavnagar Airport 	VABV 	BHU 	Domestic 	Commercial
+Jamnagar 	Jamnagar Airport 	VAJM 	JGA 	Domestic 	Civil Enclave
+Keshod 	Keshod Airport 	VAKS 	IXK 	Domestic 	Closed
+Porbandar 	Porbandar Airport 	VAPR 	PBD 	Domestic 	Commercial
+Rajkot 	Rajkot Airport 	VARK 	RAJ 	Domestic 	Commercial
+Surat 	Surat Airport 	VASU 	STV 	Domestic 	Commercial
+Mehsana 	Mehsana Airport 	-- 	-- 	Private 	Flying School
+Haryana
+City Served 	Airport Name 	ICAO 	IATA 	Category 	Role
+Hisar 	Hisar Airport 	VIHR 	HSS 	Domestic 	Flying School
+Karnal 	Karnal Airport 	VI40 	— 	Domestic 	Flying School
+Himachal Pradesh
+City Served 	Airport Name 	ICAO 	IAhbjkn ,TA 	Category 	Role
+Kangra 	Gaggal Airport 	VIGG 	DHM 	Domestic 	Commercial
+Shimla 	Shimla Airport 	VISM 	SLV 	Domestic 	Commercial
+Kullu 	Bhuntar Airport 	VIBR 	KUU 	Domestic 	Commercial
+Jammu & Kashmir
+City Served 	Airport Name 	ICAO 	IATA 	Category 	Role
+Jammu 	Jammu Airport 	VIJU 	IXJ 	Domestic 	Civil Enclave
+Kargil 	Kargil Airport 	none 	VI65 	Defence 	Air Base
+Leh 	Kushok Bakula Rimpochhe Airport 	VILH 	IXL 	Domestic 	Civil Enclave
+Srinagar 	Srinagar Airport 	VISR 	SXR 	International 	Civil Enclave
+Jharkhand
+City Served 	Airport Name 	ICAO 	IATA 	Category 	Role
+Chakulia 	Chakulia Airport 	VECK 	— 	Domestic 	Closed
+Deoghar 	Deoghar Airport 	VEDG 	DGR 	International 	Public
+Ranchi 	Birsa Munda Airport 	VERC 	IXR 	International 	Civil Enclave
+Dhanbad 	Dhanbad Airport 	VEDB 	DBD 	Domestic 	Civil Enclave
+Bokaro 	Bokaro Airport 	VEBK 	BKR 	Domestic 	Private
+Jamshedpur 	Sonari Airport 	VEJS 	IXW 	Domestic 	Public
+Karnataka
+City Served 	Airport Name 	ICAO 	IATA 	Category 	Role
+Bengaluru 	Kempegowda International Airport 	VOBL 	BLR 	International[1] 	Commercial
+Bengaluru 	HAL Airport 	VOBG 	—-- 	Defence 	Aerospace Engineering
+Bengaluru 	Yelahanka Air Force Station 	VOYK 	— 	Defence 	Air Base
+- 	Jakkur Airfield 	VOJK 	— 	Domestic 	Flying School
+Belgaum 	Belgaum Airport 	VABM 	IXG 	Domestic 	Civil Enclave
+Bellary 	Bellary Airport 	VOBI 	BEP 	Domestic 	Closed
+Bijapur 	Bijapur Airport 	— 	— 	Future 	Future
+Karwar 	Karwar Airport 	— 	— 	Future 	Future
+Shimoga 	Shimoga Airport 	— 	— 	Future 	Future
+Gulbarga 	Gulbarga Airport 	— 	— 	Future 	Future
+Hassan 	Hassan Airport 	— 	— 	Future 	Future
+Bidar 	Bidar Airport 	VOBR 	— 	Defence 	Defence
+Hubli 	Hubli Airport 	VAHB 	HBX 	Domestic 	Commercial
+Mangalore 	Mangalore International Airport 	VOML 	IXE 	International[2] 	Commercial
+Mysore 	Mysore Airport 	VOMY 	MYQ 	Domestic 	Commercial
+Toranagallu 	Vidyanagar Airport 	— 	VDY 	Private 	Private
+Kerala
+City Served 	Airport Name 	ICAO 	IATA 	Category 	Role
+Kannur 	Kannur International Airport 	— 	— 	International 	Commercial
+Kochi 	Kochi Airport 	VOCC 	VOCC 	Defence 	Airbase
+Cochin International Airport 	VOCI 	COK 	International[1] 	Commercial
+Kollam 	Kollam Airport 	— 	— 	Domestic 	Closed[3]
+Kozhikode 	Calicut International Airport 	VOCL 	CCJ 	International[1] 	Commercial
+Thiruvananthapuram 	Trivandrum International Airport 	VOTV 	TRV 	International[1] 	Commercial
+Lakshadweep
+City Served 	Airport Name 	ICAO 	IATA 	Category 	Role
+Agatti 	Agatti Aerodrome 	VOAT 	AGX 	Domestic 	Commercial
+Madhya Pradesh
+City Served 	Airport Name 	ICAO 	IATA 	Category 	Role
+Bhopal 	Raja Bhoj International Airport 	VABP 	BHO 	International[4] 	Commercial
+Gwalior 	Gwalior Airport 	VIGR 	GWL 	Domestic 	Civil Enclave
+Indore 	Devi Ahilyabai Holkar Airport 	VAID 	IDR 	Domestic [5] 	Commercial
+Jabalpur 	Jabalpur Airport 	VAJB 	JLR 	Domestic 	Commercial
+Khajuraho 	Khajuraho Airport 	VAKJ 	HJR 	Domestic 	Commercial
+Khandwa 	Khandwa Airport 	— 	— 	Domestic 	Closed
+Chhindwara 	Chhindwara Airport 	— 	— 	Domestic 	
+Ujjain 	Ujjain Airstrip 	— 	— 	Domestic 	
+Maharashtra
+
+List of airports
+City Served 	Airport 	ICAO 	IATA 	Operator 	Role
+Aamby Valley City 	Aamby Valley Airstrip 	— 	IN-0033 	— 	Private
+Akola 	Akola Airport 	VAAK 	AKD 	AAI 	General Aviation
+Amravati 	Amravati Airport 	IN-0065 	— 	MADC 	General Aviation
+Aurangabad 	Aurangabad Airport 	VAAU 	IXU 	AAI 	Domestic
+Baramati 	Baramati Airport 	— 	— 	Reliance 	Flying School
+Chandrapur 	Chandrapur Airport 	VA1B 	— 	MADC 	General Aviation
+Dhule 	Dhule Airport 	VA53 	— 	MADC 	Flying School
+Gondia 	Gondia Airport 	VA2C 	— 	AAI 	Flying School
+Jalgaon 	Jalgaon Airport 	VA47 	— 	AAI 	General Aviation
+Kalyan 	Kalyan Airstrip 	— 	— 	AAI 	Closed
+Karad 	Karad Airport 	VA1M 	— 	MADC 	Flying School
+Kolhapur 	Kolhapur Airport 	VAKP 	KLH 	AAI 	General Aviation
+Latur 	Latur Airport 	VALT 	LTU 	Reliance 	General Aviation
+Mumbai 	Chhatrapati Shivaji International Airport 	VABB 	BOM 	GVK 	International[1]
+Juhu Aerodrome 	VAJJ 	— 	AAI 	General Aviation
+Navi Mumbai 	Navi Mumbai International Airport 	— 	— 	— 	Future
+Nagpur 	Dr. Babasaheb Ambedkar International Airport 	VANP 	NAG 	MADC 	International[1]
+Nanded 	Nanded Airport 	VAND 	NDC 	Reliance 	Domestic
+Nashik 	Gandhinagar Airport 	VANR 	ISK 	AAI 	General Aviation
+Nashik 	Ozar Airport 	VAOZ 	ISK 	— 	Military 	HAL
+Osmanabad 	Osmanabad Airport 	— 	OMN 	Reliance 	General Aviation
+Phaltan 	Phaltan Landing Ground 	— 	— 	MADC 	Closed
+Pune 	Hadapsar Airport 	— 	— 	AAI 	Flying School
+Pune Airport 	VAPO 	PNQ 	Military, AAI 	Civil Enclave
+New Pune International Airport 	— 	— 	MADC 	Future
+Ratnagiri 	Ratnagiri Airport 	VARG 	RTC 	Military 	Coast Guard
+Shirdi 	Shirdi Airport 	— 	— 	MADC 	Future
+Shirpur 	Shirpur Airstrip 	— 	IN-0062 	— 	Private
+Sindhudurg 	Sindhudurg Airport 	— 	— 	IRB Infrastructure 	Future
+Solapur 	Solapur Airport 	VASL 	SSL 	MADC 	General Aviation
+Yavatmal 	Yavatmal Airport 	VA78 	YTL 	Reliance 	General Aviation
+
+
+Manipur
+City Served 	Airport Name 	ICAO 	IATA 	Category 	Role
+Imphal 	Tulihal International Airport 	VEIM 	IMF 	International 	Commercial
+Meghalaya
+City Served 	Airport Name 	ICAO 	IATA 	Category 	Role
+Shillong 	Shillong Airport 	VEBI 	SHL 	Domestic 	Commercial
+Tura 	Baljek Airport 	VETU 	TRU 	Domestic 	
+Mizoram
+City Served 	Airport Name 	ICAO 	IATA 	Category 	Role
+Mizoram 	Aizawl 	Lengpui Airport 	VELP 	AJL 	Domestic 	Commercial
+Nagaland
+City Served 	Airport Name 	ICAO 	IATA 	Category 	Role
+Dimapur 	Dimapur Airport 	VEMR 	DMU 	Domestic 	Commercial
+Odisha
+City Served 	Airport Name 	ICAO 	IATA 	Category 	Role
+Angul 	Savitri Jindal Airport 	VEAL 	IN 0073 	Private 	
+Balasore 	Rasgovindpur Airstrip 	— 	IN 0057 	Domestic 	
+Barbil 	Barbil Tonto Aerodrome 	VEBL 	IN 0074 	Private 	
+Bhubaneswar 	Biju Patnaik International Airport 	VEBS 	BBI 	International 	Commercial
+Brahmapur 	Brahmapur Airport 	VEBM 	BMP 	Domestic 	
+Cuttack 	Charbatia Air Base 	— 	— 	Defence 	Airbase
+Hirakud/Sambalpur 	Hirakud Airstrip 	VEHK 	— 	Domestic 	
+Jajpur 	Jajpur Airstrip 	— 	IN 0092 	Private 	
+Jeypore 	Jeypore Airport 	VEJP 	PYB 	Domestic 	
+Jharsuguda 	Jharsuguda Airport 	VEJH 	JSA 	Domestic 	Commercial
+Kendujhar 	Kendujhar Airstrip 	VEKJ 	— 	Private 	
+Lanjigarh 	Lanjigarh Airstrip 	— 	IN 0093 	Private 	
+Phulbani 	Phulbani Airstrip 	VEPN 	— 	Private 	
+Rourkela 	Rourkela Airport 	VERK 	RRK 	Private 	Commercial
+Nuapada 	Nawapara Airport 	VENP 	— 	Domestic 	
+Balangir 	Nuagaon Airport 	VE63 	— 	Domestic 	
+Bhawanipatna 	Utkela Airstrip 	VEUK 	— 	Domestic 	
+Puducherry
+City Served 	Airport Name 	ICAO 	IATA 	Category 	Role
+Pondicherry 	Pondicherry Airport 	VOPC 	PNY 	Domestic 	Closed
+Karaikal 	Karaikal Airport 	— 	— 	Future 	Future
+Punjab
+City Served 	Airport Name 	ICAO 	IATA 	Category 	Role
+Amritsar 	Sri Guru Ram Dass Jee International Airport 	VIAR 	ATQ 	International[1] 	Commercial
+Bathinda 	Bathinda Airport 	VIBT 	BUP 	Domestic 	Civil Enclave
+Ludhiana 	Halwara Air Force Station 	- 	LDH 	Defence 	
+Ludhiana 	Sahnewal Airport 	VILD 	LUH 	Domestic 	
+Pathankot 	Pathankot Airport 	VIPK 	PTK 	Domestic 	
+Patiala 	Patiala Airport 	VIPL 	— 	Domestic 	
+Rajasthan
+City Served 	Airport Name 	ICAO 	IATA 	Category 	Role
+Jaipur 	Jaipur International Airport 	VIJP 	JAI 	International[1] 	Commercial
+Jaisalmer 	Jaisalmer Airport 	VIJR 	JSA 	Defence 	Air base
+Jodhpur 	Jodhpur Airport 	VIJO 	JDH 	Domestic 	Civil Enclave
+Bikaner 	Nal Airport 	VIBK 	BKN 	Domestic 	Military
+Kota 	Kota Airport 	VIKO 	KTU 	Domestic 	Closed
+Udaipur 	Maharana Pratap Airport 	VAUD 	UDR 	Domestic 	Commercial
+Ajmer (Kishangarh) 	Ajmer Airport (Kishangarh Airport) 	VIAL 		Domestic 	Future
+Sikkim
+City Served 	Airport Name 	ICAO 	IATA 	Category 	Role
+Gangtok 	Pakyong Airport 	— 	— 	Future 	Future
+Tamil Nadu
+City Served 	Airport Name 	ICAO 	IATA 	Category 	Role
+Chennai 	Chennai International Airport 	VOMM 	MAA 	International[1] 	Commercial
+Chennai 	Tambaram Air Force Station 	VOTX 	— 	Defence 	Air Base
+Chennai 	New Chennai International Airport 	— 	— 	Future 	Future
+Coimbatore 	Coimbatore International Airport 	VOCB 	CJB 	International[2] 	Commercial
+Coimbatore 	Sulur Air Force Station 	VOSX 	— 	Defence 	Air Base
+Hosur 	Hosur Aerodrome 	VO95 	— 	Private 	Commercial
+Arakkonam 	INS Rajali Naval Air Station 	VOTJ 	— 	Defence 	Airbase
+Madurai 	Madurai Airport 	VOMD 	IXM 	International 	Commercial
+Salem 	Salem Airport 	VOSM 	SXV 	Domestic 	Commercial
+Thanjavur 	Thanjavur Air Force Station 	VOTJ 	TJV 	Defence 	Airbase
+Tiruchirapalli 	Tiruchirapalli International Airport 	VOTR 	TRZ 	International[2] 	Commercial
+Tuticorin 	Tuticorin Airport 	VO80 	TCR 	Domestic 	Commercial
+Vellore 	Vellore Airport 	VOVR 	VLR 	Future 	Future
+Telangana
+City Served 	Airport Name 	ICAO 	IATA 	Category 	Role
+Hyderabad 	Begumpet Airport 	VOHY 	— 	Domestic 	Civil Enclave
+Dundigul Air Force Academy 	VODG 	— 	Defence 	Flying School
+Hakimpet Air Force Station 	VOHK 	— 	Defence
+Nadirgul Airport 	— 	— 	Domestic
+Rajiv Gandhi International Airport 	VOHS 	HYD 	International[1] 	Commercial
+Warangal 	Warangal Airport 	VOWA 	WGC 	Future 	Future
+Ramagundam 	Ramagundam Airport 	— 	VORG 	Domestic 	Closed
+Nizamabad 	Nizamabad Airport 	— 	— 	Future 	Future
+Kothagudem 	Kothagudem Airport 	— 	— 	Future 	Future
+Tripura
+City Served 	Airport Name 	ICAO 	IATA 	Category 	Role
+Agartala 	Agartala Airport 	VIPT 	IXA 	Domestic 	Commercial
+Kailashahar 	Kailashahar Airport 	VEKR 	IXH 	Domestic 	Closed
+Khowai 	Khowai Airport 	— 	— 	Domestic 	Closed
+
+
+Uttrakhand
+City Served 	Airport Name 	ICAO 	IATA 	Category 	Role
+Chinyali Sour 	Bharkot Airport 	VI82 	— 	Domestic 	
+Dehradun 	Jolly Grant Airport 	VIDN 	DED 	Domestic 	Commercial
+Pantnagar 	Pantnagar Airport 	VIPT 	PGH 	Domestic 	Commercial
+Pithoragarh 	Naini Saini Airport 	— 	— 	Future 	Future
+
+
+Uttar Pradesh
+City Served 	Airport Name 	ICAO 	IATA 	Category 	Role
+Kanpur 	Kanpur Civil Airport 	— 	— 	Domestic 	Flying School
+IIT Kanpur Airport 	— 	— 	Private 	Aerospace Engineering
+Kanpur Airport 	VIKA 	KNU 	Domestic 	Civil enclave
+Gorakhpur 	Gorakhpur Airport 	VEGK 	GOP 	Domestic 	Civil Enclave
+Agra 	Agra Air Force Station 	VIAG 	AGR 	Domestic 	Civil Enclave
+Allahabad 	Allahabad Airport 	VIAL 	IXD 	Domestic 	Civil Enclave
+Bareilly 	Bareilly Airport 	VIBY 	— 		
+Raebareli 	Raebareli Airport 	VIRB 	— 	Private 	Flying school
+Meerut 	Meerut Airport 	VI2B 	— 	Private 	Flying School
+Aligarh 	Aligarh Airport 	VI 	— 	Private 	Flying School
+Faizabad 	Faizabad Airport 	VI25 	— 	Private 	Flying School
+Moradabad 	Moradabad Airport 	VI-- 	— 	Private 	Airfield
+Farrukhabad 	Farrukhabad Airport 	VI-- 	—
+Lakhimpur Kheri 	Kheri Airport 	VI-- 	—
+Kushinagar 	Kushinagar Airport 	VI-- 	—
+Shravasti 	Shravasti Airport 	VI-- 	—
+Azamgarh 	Azamgarh Airport 	VI-- 	—
+Ghazipur 	Ghazipur Airport 	VI-- 	—
+Akbarpur 	Akbarpur Airport 	VI-- 	—
+Sultanpur 	Sultanpur Airport 	VI-- 	—
+Sonbhadra 	Muirpur Airport 	VI-- 	— 	Private 	Private
+Lucknow 	Chaudhary Charan Singh International Airport 	VILK 	LKO 	International[2] 	Commercial
+Lucknow Air Force Station 	VIBL 	— 	Defence 	Airbase
+Varanasi 	Lal Bahadur Shastri Airport 	VIBN 	VNS 	International[2] 	Commercial
+Ghaziabad 	Hindon Air Force Station 	VIXD 	— 	Defence 	Airbase
+Saharanpur 	Sarsawa Air Base 	VISP 	— 	Defence 	Airbase
+Jhansi 	Jhansi Airport 	VIJN 	— 	Defence 	Airbase
+
+
+West Bengal
+City Served 	Airport Name 	ICAO 	IATA 	Category 	Role
+Balurghat 	Balurghat Airport 	VEBG 	RGH 	Domestic 	Closed
+Barrackpore 	Barrackpore Air Force Station 	VEBR 	— 	Defence 	Airbase
+Behala 	Behala Airport 	VEBA 	— 	Domestic 	Flying School
+Cooch Behar 	Cooch Behar Airport 	VECO 	COH 	Domestic 	Commercial
+Asansol-Durgapur 	Kazi Nazrul Islam Airport 	VEDG 	RDP 	Domestic 	Commercial
+Hasimara 	Hasimara Air Base 	VEHX 	— 	Defence 	Airbase
+Kharagpur 	Kalaikunda Air Force Station 	VEDX 	— 	Defence 	Airbase
+Kolkata 	Netaji Subhash Chandra Bose International Airport 	VECC 	CCU 	International[1] 	Commercial
+Malda 	Malda Airport 	VEMH 	LDA 	Domestic 	Closed
+Panagarh 	Panagarh Airport 	VEPH 	— 	Defence 	Airbase
+Siliguri 	Bagdogra Airport 	VEBD 	IX"|International[6] 	Civil Enclave
+References

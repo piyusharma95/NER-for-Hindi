@@ -1,0 +1,110 @@
+﻿https://en.wikipedia.org/wiki/List_of_Institutes_of_National_Importance
+1 	Academy of Scientific and Innovative Research 	Chennai 	Tamil Nadu 	2010 	CSIR 	Sciences
+2 	AIIMS Bhopal 	Bhopal 	Madhya Pradesh 	2012 	AIIMS 	Medicine
+3 	AIIMS Bhubaneswar 	Bhubaneswar 	Odisha 	2012 	AIIMS 	Medicine
+4 	AIIMS Jodhpur 	Jodhpur 	Rajasthan 	2012 	AIIMS 	Medicine
+5 	AIIMS New Delhi 	Delhi 	Delhi 	1956 	AIIMS 	Medicine
+6 	AIIMS Patna 	Patna 	Bihar 	2012 	AIIMS 	Medicine
+7 	AIIMS Raipur 	Raipur 	Chhattisgarh 	2012 	AIIMS 	Medicine
+8 	AIIMS Rishikesh 	Rishikesh 	Uttarakhand 	2012 	AIIMS 	Medicine
+9 	Indian Institute of Information Technology and Management, Gwalior 	Gwalior 	Madhya Pradesh 	1997 	IIIT 	Information Technology
+10 	Dakshina Bharat Hindi Prachar Sabha 	Chennai 	Tamil Nadu 	1918 	NA 	Language studies
+11 	Dr. B. R. Ambedkar National Institute of Technology 	Jalandhar 	Punjab 	1987 	NIT 	Engineering
+12 	Indian Institute of Engineering Science and Technology, Shibpur 	Howrah 	West Bengal 	1856 	IIEST 	Engineering
+13 	Indian Institute of Information Technology, Allahabad 	Allahabad 	Uttar Pradesh 	1999 	IIIT 	Information Technology
+14 	Indian Institute of Information Technology, Design & Manufacturing Kancheepuram 	Kanchipuram 	Tamil Nadu 	2007 	IIIT 	Information Technology
+15 	Indian Institute of Information Technology, Design and Manufacturing, Jabalpur 	Jabalpur 	Madhya Pradesh 	2005 	IIIT 	Information Technology
+16 	Indian Institute of Science Education and Research, Bhopal 	Bhopal 	Madhya Pradesh 	2008 	IISER 	Sciences
+17 	Indian Institute of Science Education and Research, Kolkata 	Kolkata 	West Bengal 	2006 	IISER 	Sciences
+18 	Indian Institute of Science Education and Research, Mohali 	Mohali 	Punjab 	2007 	IISER 	Sciences
+19 	Indian Institute of Science Education and Research, Pune 	Pune 	Maharashtra 	2006 	IISER 	Sciences
+20 	Indian Institute of Science Education and Research, Thiruvananthapuram 	Thiruvananthapuram 	Kerala 	2008 	IISER 	Sciences
+21 	Indian Institute of Technology Bhubaneswar 	Bhubaneswar 	Odisha 	2008 	IIT 	Engineering
+22 	Indian Institute of Technology Bombay 	Mumbai 	Maharashtra 	1958 	IIT 	Engineering
+23 	Indian Institute of Technology Delhi N2 	Delhi 	Delhi 	1963 	IIT 	Engineering
+24 	Indian Institute of Technology Gandhinagar 	Gandhinagar 	Gujarat 	2008 	IIT 	Engineering
+25 	Indian Institute of Technology Guwahati 	Guwahati 	Assam 	1994 	IIT 	Engineering
+26 	Indian Institute of Technology Hyderabad 	Hyderabad 	Telengana 	2008 	IIT 	Engineering
+27 	Indian Institute of Technology Indore 	Indore 	Madhya Pradesh 	2009 	IIT 	Engineering
+28 	Indian Institute of Technology Jodhpur 	Jodhpur 	Rajasthan 	2008 	IIT 	Engineering
+29 	Indian Institute of Technology Kharagpur 	Kharagpur 	West Bengal 	1951 	IIT 	Engineering
+30 	Indian Institute of Technology Kanpur 	Kanpur 	Uttar Pradesh 	1959 	IIT 	Engineering
+31 	Indian Institute of Technology Madras 	Chennai 	Tamil Nadu 	1959 	IIT 	Engineering
+32 	Indian Institute of Technology Mandi 	Mandi 	Himachal Pradesh 	2009 	IIT 	Engineering
+33 	Indian Institute of Technology Patna 	Patna 	Bihar 	2008 	IIT 	Engineering
+34 	Indian Institute of Technology Roorkee[N 1] 	Roorkee 	Uttarakhand 	1847 	IIT 	Engineering
+35 	Indian Institute of Technology Ropar 	Ropar 	Punjab 	2008 	IIT 	Engineering
+36 	Indian Institute of Technology, BHU[N 1] 	Varanasi 	Uttar Pradesh 	1919 	IIT 	Engineering
+37 	Indian Statistical Institute 	Kolkata 	West Bengal 	1931 	ISI 	Statistics
+38 	International Institute of Information Technology, Bhubaneswar 	Bhubaneswar 	Odisha 	2007 	IIIT 	Engineering
+39 	Jawaharlal Institute of Postgraduate Medical Education and Research[N 2] 	Pondicherry 	Puducherry 	1823 	JIPMER 	Medicine
+40 	Malaviya National Institute of Technology, Jaipur 	Jaipur 	Rajasthan 	1963 	NIT 	Engineering
+41 	Maulana Azad National Institute of Technology 	Bhopal 	Madhya Pradesh 	1960 	NIT 	Engineering
+42 	Motilal Nehru National Institute of Technology Allahabad 	Allahabad 	Uttar Pradesh 	1961 	NIT 	Engineering
+43 	National Institute of Pharmaceutical Education and Research, Mohali 	Mohali 	Punjab 		NIPER 	Pharmaceutical sciences
+44 	National Institute of Technology Agartala 	Agartala 	Tripura 	1965 	NIT 	Engineering
+45 	National Institute of Technology Arunachal Pradesh 	Yupia 	Arunachal Pradesh 	2010 	NIT 	Engineering
+46 	National Institute of Technology Calicut 	Kozhikode 	Kerala 	1961 	NIT 	Engineering
+47 	National Institute of Technology Delhi 	Delhi 	Delhi 	2010 	NIT 	Engineering
+48 	National Institute of Technology Durgapur 	Durgapur 	West Bengal 	1960 	NIT 	Engineering
+49 	National Institute of Technology Goa 	Farmagudi 	Goa 	2010 	NIT 	Engineering
+50 	National Institute of Technology Hamirpur 	Hamirpur 	Himachal Pradesh 	2010 	NIT 	Engineering
+51 	National Institute of Technology Jamshedpur 	Jamshedpur 	Jharkhand 	1960 	NIT 	Engineering
+52 	National Institute of Technology Karnataka 	Mangalore 	Karnataka 	1960 	NIT 	Engineering
+53 	National Institute of Technology Kurukshetra 	Kurukshetra 	Haryana 	1963 	NIT 	Engineering
+54 	National Institute of Technology Manipur 	Imphal 	Manipur 	2010 	NIT 	Engineering
+55 	National Institute of Technology Meghalaya 	Shillong 	Meghalaya 	2010 	NIT 	Engineering
+56 	National Institute of Technology Mizoram 	Aizawl 	Mizoram 	2010 	NIT 	Engineering
+57 	National Institute of Technology Nagaland 	Dimapur 	Nagaland 	2010 	NIT 	Engineering
+58 	National Institute of Technology Patna 	Patna 	Bihar 	1886 	NIT 	Engineering
+59 	National Institute of Technology Puducherry 	Karaikal 	Puducherry 	2010 	NIT 	Engineering
+60 	National Institute of Technology Raipur 	Raipur 	Chhattisgarh 	1956 	NIT 	Engineering
+61 	National Institute of Technology Rourkela 	Rourkela 	Odisha 	1961 	NIT 	Engineering
+62 	National Institute of Technology Sikkim 	Ravangla 	Sikkim 	2010 	NIT 	Engineering
+63 	National Institute of Technology Silchar 	Silchar 	Assam 	1967 	NIT 	Engineering
+64 	National Institute of Technology Srinagar 	Srinagar 	Jammu and Kashmir 	1960 	NIT 	Engineering
+65 	National Institute of Technology Tiruchirappalli 	Tiruchirappalli 	Tamil Nadu 	1964 	NIT 	Engineering
+66 	National Institute of Technology Warangal 	Warangal 	Telengana 	1959 	NIT 	Engineering
+67 	Rajiv Gandhi National Institute of Youth Development 	Sriperumbudur 	Tamil Nadu 	1993 	NA 	Training
+68 	Sree Chitra Thirunal Institute of Medical Sciences and Technology 	Thiruvananthapuram 	Kerala 	2000 	NA 	Medicine
+69 	Sardar Vallabhbhai National Institute of Technology Surat 	Surat 	Gujarat 	1961 	NIT 	Engineering
+70 	School of Planning and Architecture, Bhopal 	Bhopal 	Madhya Pradesh 	2008 	SPA 	Architecture
+71 	School of Planning and Architecture, Delhi 	New Delhi 	Delhi 	1941 	SPA 	Architecture
+72 	School of Planning and Architecture, Vijayawada 	Vijayawada 	Andhra Pradesh 	2008 	SPA 	Architecture
+73 	Visvesvaraya National Institute of Technology Nagpur 	Nagpur 	Maharashtra 	1960 	NIT 	Engineering
+74 	National Institute of Technology Uttarakhand 	Srinagar 	Uttarakhand 	2010 	NIT 	Engineering
+75 	Rajiv Gandhi Institute of Petroleum Technology 	Rae Bareli 	Uttar Pradesh 	2005 	NA 	Technology
+76 	National Institute of Design 	Ahmedabad 	Gujarat 	1961 	NID 	Design
+77 	National Institute of Technology 	Tadepalligudem 	Andhra Pradesh 	2015 	NIT 	Engineering
+Indian Institutes of Technology 	
+
+    IIT (BHU) Varanasi IIT Bhubaneswar IIT Bombay IIT Delhi IIT Gandhinagar IIT Guwahati IIT Hyderabad IIT Indore IIT Kanpur IIT Kharagpur IIT Mandi IIT Madras IIT Patna IIT Jodhpur IIT Roorkee IIT Ropar IIT Tirupati 
+
+Indian Institutes of Information Technology 	
+
+    Indian Institute of Information Technology, Design and Manufacturing, Jabalpur Indian Institute of Information Technology Design & Manufacturing Kancheepuram Indian Institute of Information Technology and Management, Gwalior Indian Institute of Information Technology, Allahabad 
+
+National Institutes of Technology 	
+
+    NIT Agartala NIT Allahabad NIT Bhopal NIT Calicut NIT Delhi NIT Durgapur NIT Goa NIT Hamirpur NIT Jaipur NIT Jalandhar NIT Jamshedpur NIT Kurukshetra NIT, Nagpur NIT Uttarakhand NIT Patna NIT Raipur NIT Rourkela NIT Silchar NIT Srinagar NIT Surat NIT Surathkal NIT Tiruchirappalli NIT Warangal NIT Arunachal Pradesh 
+
+Indian Institutes of Science Education and Research 	
+
+    IISER Bhopal IISER Kolkata IISER Mohali IISER Pune IISER Thiruvananthapuram 
+
+All India Institute of Medical Sciences 	
+
+    AIIMS Bhopal AIIMS Bhubaneswar AIIMS Jodhpur AIIMS Delhi AIIMS Patna AIIMS Raipur AIIMS Rishikesh 
+
+School of Planning and Architecture 	
+
+    SPA Delhi SPA Vijayawada SPA Bhopal 
+
+Medical Education and Research 	
+
+    PGIMER Chandigarh SCTIMST Thiruvananthapuram JIPMER Pondicherry 
+
+Others 	
+
+    Academy of Scientific and Innovative Research Dakshin Bharat Hindi Prachar Sabha IIEST Shibpur ISI Kolkata RGIPT Raebareli Rajiv Gandhi National Institute of Youth Development NIPER Mohali 
+
